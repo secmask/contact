@@ -1,4 +1,4 @@
-package contact
+package contact;
 
 type Phone struct {
 	PhoneType string
